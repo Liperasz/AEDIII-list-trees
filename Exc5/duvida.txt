@@ -1,0 +1,2 @@
+A questão 5 pede para criar uma função que já está escrita no código enviado, então eu realmente não entendi o que eu
+deveria fazer aqui na questão 5. Seria apenas reescrever do meu jeito? Realmente não entendi, desconsidere essa questão.
